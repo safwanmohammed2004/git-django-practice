@@ -1,1 +1,2 @@
-this is the main work of jira 2
+this is the main work of jira 2this is the jira one .txt
+
